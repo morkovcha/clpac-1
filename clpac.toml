@@ -1,0 +1,6 @@
+[package]
+name = "clpac"
+type = "bin"
+sources = [
+    "src/main.c"
+]
