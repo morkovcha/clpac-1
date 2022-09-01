@@ -1,6 +1,8 @@
 [package]
 name = "clpac"
-type = "bin"
 sources = [
-    "src/main.c"
+    "src/main.c",
+    "src/toml.c",
+    "src/args.c",
+    "src/make.c"
 ]
